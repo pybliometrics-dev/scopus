@@ -1,0 +1,4 @@
+scopus
+======
+
+.. include:: ../README.rst
